@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/niknik/Desktop/Project2_HackingWithSwift/Guess the Flag.xcodeproj">
    </FileRef>
 </Workspace>
